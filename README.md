@@ -1,5 +1,7 @@
 ## [AnyDLBot](https://telegram.dog/AnyDLBot)
 
+**NOT MY OWN PROJECT / REPO**
+
 **There are multiple things I can do**:
 
 **FEATURES**:  
